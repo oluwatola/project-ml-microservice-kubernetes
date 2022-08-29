@@ -34,7 +34,8 @@ go to cloud9 and do git clone ssh clonelink
 
 cd into proper directory
 
-create venv : ython3 -m venv ~/.devops
+create venv : python3 -m venv ~/.devops
+
 activate venv: source ~/.devops/bin/activate
 
 make install
@@ -73,7 +74,7 @@ execute ./run_docker.sh to build and run docker image
 
 wait for success message.
 
-to make orediction, open up new terminal and execute: ./make_prediction.sh
+to make prediction, open up new terminal and execute: ./make_prediction.sh
 
 add log statement to app.py by including: LOG.info(f"output prediction: {prediction}").
 
