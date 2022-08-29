@@ -1,6 +1,6 @@
 <include a CircleCI status badge, here>
 
-[![CircleCI](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes/?branch=main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/oluwatola/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/oluwatola/project-ml-microservice-kubernetes/tree/main)
 
 ## Project Overview - Completed
 
